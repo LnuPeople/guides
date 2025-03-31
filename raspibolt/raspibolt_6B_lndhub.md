@@ -1,3 +1,4 @@
+(INSTALL.lndhub.md)
 [ [Intro](README.md) ] -- [ [Preparations](raspibolt_10_preparations.md) ] -- [ [Raspberry Pi](raspibolt_20_pi.md) ] -- [ [Bitcoin](raspibolt_30_bitcoin.md) ] -- [ [Lightning](raspibolt_40_lnd.md) ] -- [ [Mainnet](raspibolt_50_mainnet.md) ] -- [ [**Bonus**](raspibolt_60_bonus.md) ] -- [ [Troubleshooting](raspibolt_70_troubleshooting.md) ]
 
 ------
@@ -24,6 +25,7 @@ $ tar xzf redis-5.0.3.tar.gz
 $ cd redis-5.0.3/
 ```
 Make & install
+
 ```
 $ make
 $ sudo make install
